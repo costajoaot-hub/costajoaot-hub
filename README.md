@@ -1,6 +1,6 @@
 ## Hi there, I'm João Teixeira e Costa 👋
 
-I am an **Environmental Engineer and Managing Partner** with a strong focus on sustainability, industrial efficiency, and business management. I bridge the gap between engineering processes and technological innovation by using **Python** to automate data integrity and audit workflows.
+I am an **Environmental Engineer and PhD Researcher** with a strong focus on sustainability, industrial efficiency, and business management. I bridge the gap between engineering processes and technological innovation by using **Python** to automate data integrity and audit workflows.
 
 ### 🛠️ Technical Skills & Interests
 - **Languages & Tools:** Python (Pandas, Data Automation, Scripting).
